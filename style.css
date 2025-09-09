@@ -97,3 +97,15 @@ body {
     margin: 4px;
   }
 }
+
+#cancel { 
+  visibility: hidden;
+}
+
+#confirm { 
+  visibility: hidden;
+}
+
+#image { 
+  visibility: hidden;
+}
