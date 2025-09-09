@@ -1,3 +1,25 @@
 body {
   background-color: #d8e9f3;
 }
+
+.button {
+  background-color: #4390bc;
+  border: none;
+  color: white;
+  padding: 6px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 28px 0px 0px;
+  cursor: pointer;
+}
+
+#myBar {
+  background-color: #4390bc;
+}
+
+#calculating {
+  margin-bottom: 0px;
+  font-size: 28px;
+}
